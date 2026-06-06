@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Tìm kiếm học thuật">
+  <rect width="960" height="600" fill="#f7fbff"/>
+  <rect x="104" y="116" width="752" height="384" rx="24" fill="#ffffff" stroke="#dbe5ee" stroke-width="4"/>
+  <circle cx="332" cy="280" r="94" fill="#dbeafe" stroke="#2563eb" stroke-width="16"/>
+  <path d="M400 348l90 90" stroke="#2563eb" stroke-width="22" stroke-linecap="round"/>
+  <rect x="540" y="188" width="210" height="34" rx="17" fill="#ccfbf1"/>
+  <rect x="540" y="252" width="250" height="28" rx="14" fill="#e2e8f0"/>
+  <rect x="540" y="308" width="180" height="28" rx="14" fill="#e2e8f0"/>
+  <rect x="540" y="364" width="230" height="28" rx="14" fill="#fee2e2"/>
+  <path d="M296 280l42 42 78-98" fill="none" stroke="#0f766e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="480" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Bài 2 · Tìm kiếm học thuật</text>
+</svg>

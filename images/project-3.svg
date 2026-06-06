@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Viết prompt hiệu quả">
+  <rect width="960" height="600" fill="#f8fbff"/>
+  <rect x="120" y="130" width="720" height="360" rx="24" fill="#ffffff" stroke="#dbe5ee" stroke-width="4"/>
+  <rect x="174" y="196" width="248" height="72" rx="18" fill="#dbeafe"/>
+  <rect x="174" y="302" width="320" height="72" rx="18" fill="#ccfbf1"/>
+  <rect x="538" y="196" width="248" height="178" rx="18" fill="#fff7ed"/>
+  <path d="M210 232h132M210 338h220M576 242h150M576 296h112M576 350h138" stroke="#12212f" stroke-width="14" stroke-linecap="round"/>
+  <path d="M424 232h84M500 338h38" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="658" cy="434" r="42" fill="#be3455"/>
+  <path d="M638 434h40M658 414v40" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <text x="480" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Bài 3 · Prompt hiệu quả</text>
+</svg>

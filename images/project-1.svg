@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Quản lý tệp và thư mục">
+  <rect width="960" height="600" fill="#f4fbff"/>
+  <rect x="110" y="130" width="740" height="370" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <rect x="150" y="190" width="250" height="92" rx="16" fill="#dbeafe"/>
+  <path d="M150 210h92l24 28h134" fill="#bfdbfe"/>
+  <rect x="150" y="324" width="250" height="92" rx="16" fill="#ccfbf1"/>
+  <path d="M150 344h92l24 28h134" fill="#99f6e4"/>
+  <rect x="500" y="184" width="250" height="260" rx="18" fill="#f8fafc" stroke="#dbe5ee" stroke-width="4"/>
+  <path d="M545 242h160M545 300h160M545 358h108" stroke="#0f766e" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="765" cy="426" r="54" fill="#f59e0b"/>
+  <path d="M738 426l20 20 36-46" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="480" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Bài 1 · Quản lý tệp</text>
+</svg>

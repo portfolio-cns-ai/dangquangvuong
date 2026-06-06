@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="Hợp tác trực tuyến">
+  <rect width="960" height="600" fill="#f8fbff"/>
+  <rect x="110" y="126" width="740" height="360" rx="24" fill="#ffffff" stroke="#dbe5ee" stroke-width="4"/>
+  <rect x="166" y="190" width="156" height="230" rx="18" fill="#dbeafe"/>
+  <rect x="402" y="190" width="156" height="230" rx="18" fill="#ccfbf1"/>
+  <rect x="638" y="190" width="156" height="230" rx="18" fill="#fef3c7"/>
+  <circle cx="244" cy="250" r="34" fill="#2563eb"/>
+  <circle cx="480" cy="250" r="34" fill="#0f766e"/>
+  <circle cx="716" cy="250" r="34" fill="#f59e0b"/>
+  <path d="M218 328h52M440 328h80M680 328h72M218 370h84M440 370h54M680 370h42" stroke="#12212f" stroke-width="12" stroke-linecap="round"/>
+  <path d="M322 306h80M558 306h80" stroke="#94a3b8" stroke-width="10" stroke-linecap="round" stroke-dasharray="20 18"/>
+  <text x="480" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#0f172a">Bài 4 · Hợp tác trực tuyến</text>
+</svg>
